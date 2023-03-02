@@ -8,3 +8,5 @@ remove renew_lifetime = 7d from krb5.conf
 add udp_preference_limit=1 under [libdefaults]
 
 Also, the main server was added to etc/hosts
+
+krb5.conf and keytab file was copied over to local.
